@@ -16,7 +16,9 @@
 
 .movie-details {
   padding: 16px;
+  width: 1000px;
   flex: 1;
+
 }
 
 .movie-title {
